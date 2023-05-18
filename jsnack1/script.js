@@ -9,12 +9,9 @@ Il programma stampa la somma di tutti i numeri inseriti. */
 let sum = 0;
 
 for ( let i = 0; i<10; i++){
-
-
     const Numb = parseInt(prompt ('Insert a number'));
 
     sum += Numb;
-
 
 }
 
