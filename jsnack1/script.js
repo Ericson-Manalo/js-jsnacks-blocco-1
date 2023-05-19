@@ -13,6 +13,8 @@ for ( let i = 0; i<10; i++){
 
     sum += Numb;
 
+    //sum += parseInt(prompt ('Insert a number'));    ----> si può scrivere anche così
+
 }
 
 console.log("La somma dei numeri inseriti è di ", sum);
