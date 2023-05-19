@@ -14,4 +14,4 @@ for ( let i = 0; i < numberOfFour.length; i++){
     sum += parseInt(numberOfFour.charAt(i)); 
 }
 
-console.log(sum);
+console.log(sum); 
